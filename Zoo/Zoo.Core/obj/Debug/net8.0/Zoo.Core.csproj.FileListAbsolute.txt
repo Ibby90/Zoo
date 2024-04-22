@@ -1,0 +1,11 @@
+C:\Users\Gunde\OneDrive\Skrivbord\Zoo text dokument\Zoo\Zoo.Core\obj\Debug\net8.0\Zoo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gunde\OneDrive\Skrivbord\Zoo text dokument\Zoo\Zoo.Core\obj\Debug\net8.0\Zoo.Core.AssemblyInfoInputs.cache
+C:\Users\Gunde\OneDrive\Skrivbord\Zoo text dokument\Zoo\Zoo.Core\obj\Debug\net8.0\Zoo.Core.AssemblyInfo.cs
+C:\Users\Gunde\OneDrive\Skrivbord\Zoo text dokument\Zoo\Zoo.Core\obj\Debug\net8.0\Zoo.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gunde\OneDrive\Skrivbord\Zoo text dokument\Zoo\Zoo.Core\bin\Debug\net8.0\Zoo.Core.deps.json
+C:\Users\Gunde\OneDrive\Skrivbord\Zoo text dokument\Zoo\Zoo.Core\bin\Debug\net8.0\Zoo.Core.dll
+C:\Users\Gunde\OneDrive\Skrivbord\Zoo text dokument\Zoo\Zoo.Core\bin\Debug\net8.0\Zoo.Core.pdb
+C:\Users\Gunde\OneDrive\Skrivbord\Zoo text dokument\Zoo\Zoo.Core\obj\Debug\net8.0\Zoo.Core.dll
+C:\Users\Gunde\OneDrive\Skrivbord\Zoo text dokument\Zoo\Zoo.Core\obj\Debug\net8.0\refint\Zoo.Core.dll
+C:\Users\Gunde\OneDrive\Skrivbord\Zoo text dokument\Zoo\Zoo.Core\obj\Debug\net8.0\Zoo.Core.pdb
+C:\Users\Gunde\OneDrive\Skrivbord\Zoo text dokument\Zoo\Zoo.Core\obj\Debug\net8.0\ref\Zoo.Core.dll
